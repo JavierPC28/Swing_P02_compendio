@@ -65,6 +65,6 @@ Se utiliza [Git](https://git-scm.com/) para el control de versiones. El reposito
 Este proyecto está licenciado bajo los términos de la [Licencia MIT](https://opensource.org/licenses/MIT).
 
 ## Recursos adicionales
-- [Repositorio GitHub del proyecto](https://github.com/tu_usuario/Swing_P02_Compendio)
+- [Repositorio GitHub del proyecto](https://github.com/JavierPC28/Swing_P02_compendio)
 - [Documentación oficial de Java](https://docs.oracle.com/en/java/)
 - [Documentación oficial de Swing](https://docs.oracle.com/javase/tutorial/uiswing/)
